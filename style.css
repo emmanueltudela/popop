@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+  overflow: hidden;
+}
+
+#score {
+  font-family: monospace;
+  font-size: 50px;
+  color: gold;
+  padding: 10px;
+}
+
+.food {
+  position: absolute;
+}
